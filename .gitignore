@@ -1,0 +1,27 @@
+# Ignore all YOLOv3 weights
+*.weights
+
+# Ignore ONNX and Torch models
+*.onnx
+*.pt
+
+# Ignore OpenCV snapshots and image logs
+wep_img/
+data/
+*.jpg
+*.png
+
+# Ignore Excel logs
+*.xlsx
+
+# Ignore __pycache__ and other Python garbage
+__pycache__/
+*.pyc
+
+# If you have a runs/ folder from training or logging
+runs/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
