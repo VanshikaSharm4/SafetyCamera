@@ -61,22 +61,10 @@ The objective is to move surveillance from **simply documenting an incident to a
 
 ## Project Showcase
 
-<!-- IMAGE 1: Add your main SafetyCamera / YOLO detection screenshot here -->
-
 <p align="center">
-  <img src="YOUR_IMAGE_1_URL" width="32%" alt="SafetyCamera AI Detection">
-</p>
-
-<!-- IMAGE 2: Add your Police Dashboard screenshot here -->
-
-<p align="center">
-  <img src="YOUR_IMAGE_2_URL" width="32%" alt="SafetyCamera Police Dashboard">
-</p>
-
-<!-- IMAGE 3: Add your Telegram Alert / SOS screenshot here -->
-
-<p align="center">
-  <img src="YOUR_IMAGE_3_URL" width="32%" alt="SafetyCamera Emergency Alert">
+  <img src="img1" width="32%" alt="SafetyCamera AI Detection">
+  <img src="img2" width="32%" alt="SafetyCamera Police Dashboard">
+  <img src="img3" width="32%" alt="SafetyCamera Emergency Alert">
 </p>
 
 ---
