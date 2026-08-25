@@ -208,3 +208,15 @@ The result is an AI-assisted surveillance architecture designed to shift securit
 Instead of relying entirely on someone noticing an incident after it occurs, SafetyCamera aims to continuously analyze the environment and bring potentially critical events to the attention of authorized responders in real time.
 
 That combination of **AI, automation, computer vision, and human-in-the-loop response** is what makes SafetyCamera more than a surveillance application — it is a foundation for an intelligent public-safety platform.
+
+---
+## Setup & Run
+Follow these steps to run the project: 
+
+Clone the repository Create and activate a virtual environment 
+
+Install dependencies using pip install -r requirements.txt 
+
+Configure Telegram Bot Token and Chat ID in telegram_alerts.py
+
+Run the dashboards and app in separate terminals: streamlit run web.py → Police Dashboard streamlit run web2.py → Volunteer Dashboard python app.py → Main Detection & Alert Engine (YOLO + MediaPipe)
