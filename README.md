@@ -1,4 +1,4 @@
-# SafetyCame : AI-Powered Real-Time Public Safety & Threat Detection
+# SafetyCam: AI-Powered Real-Time Public Safety & Threat Detection
 
 > **From passive surveillance to intelligent intervention.**
 
